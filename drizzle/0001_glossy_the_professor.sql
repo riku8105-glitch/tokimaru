@@ -1,0 +1,1 @@
+ALTER TABLE `schedule_responses` ADD `edit_token_hash` text;

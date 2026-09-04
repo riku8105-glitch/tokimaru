@@ -1,0 +1,2 @@
+ALTER TABLE `schedule_responses` ADD `normalized_name` text;--> statement-breakpoint
+CREATE UNIQUE INDEX `idx_schedule_responses_event_normalized_name` ON `schedule_responses` (`event_id`,`normalized_name`);

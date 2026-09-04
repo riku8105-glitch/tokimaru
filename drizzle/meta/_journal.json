@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1786814193170,
+      "tag": "0000_stale_christian_walker",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1786816166177,
+      "tag": "0001_glossy_the_professor",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1786816433222,
+      "tag": "0002_mysterious_texas_twister",
+      "breakpoints": true
+    }
+  ]
+}
